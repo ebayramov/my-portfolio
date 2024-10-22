@@ -1,0 +1,7 @@
+export * from "./Footer"
+export * from "./Header"
+export * from "./Nav"
+export * from "./Main"
+export * from "./Section"
+export * from "./ContentWrapper"
+export * from "./Text"

@@ -1,0 +1,20 @@
+export * from "./BootstrapIcon"
+export * from "./PhotoshopIcon"
+export * from "./CanvaIcon"
+
+export * from "./CssIcon"
+export * from "./ReactIcon"
+export * from "./HtmlIcon"
+
+export * from "./DigitalOceanIcon"
+export * from "./NodejsIcon"
+export * from "./MysqlIcon"
+export * from "./SocketioIcon"
+export * from "./PhpIcon"
+
+export * from "./DockerIcon"
+export * from "./NextjsIcon"
+export * from "./JavascriptIcon"
+export * from "./JqueryIcon"
+export * from "./BulmaIcon"
+export * from "./GithubIcon"
