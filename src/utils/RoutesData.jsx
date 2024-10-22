@@ -4,7 +4,7 @@ export const routesData = [
     {
         element: <pages.Home/>,
         // element: <pages.TestPage/>,
-        path: "/",
+        path: "/my-portfolio",
         label: "home",
     },
     {
