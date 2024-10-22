@@ -26,7 +26,7 @@ export const Footer = () => {
 
           <ContentWrapper layout={"flex"} gap={"1rem"} alignItems={"center"}>
             <PhoneIcon width={"2rem"} />
-            <Paragraph>(+1) 709-632-8065 </Paragraph>
+            <Paragraph as={"a"} href="tel:+17096328065">(+1) 709-632-8065</Paragraph>
           </ContentWrapper>
 
         </ContentWrapper>
