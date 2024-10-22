@@ -57,7 +57,7 @@ export const About = () => {
 
       </ContentWrapper>
 
-      <CoverImg src="/AboutPhoto.jpg" alt="" />
+      <CoverImg src="AboutPhoto.jpg" alt="" />
     </Section>
   );
 };

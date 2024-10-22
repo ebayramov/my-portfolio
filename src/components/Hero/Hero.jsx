@@ -11,7 +11,7 @@ export const Hero = () => {
             minColumnSize={"44ch"}
             placeItems={"center center"}
         >
-            <CoverImg src="/HeroBanner.png" alt="" />
+            <CoverImg src="HeroBanner.png" alt="" />
 
             <ContentWrapper
                 layout={"flex"}
@@ -24,7 +24,7 @@ export const Hero = () => {
                     <Subheading>Frontend Developer</Subheading>
                     <Paragraph maxWidth={"45ch"}>Crafting innovative solutions with expertise in Javascript, React, Next.js and PHP. Let's build something amazing together!</Paragraph>
                 </ContentWrapper>
-                <form action="/Elmaddin Bayramov Resume.pdf" value={"Download CV"} target="_blank">
+                <form action="Elmaddin Bayramov Resume.pdf" value={"Download CV"} target="_blank">
                     <StyledButton> <Paragraph>Get My Resume</Paragraph></StyledButton>
                 </form>
             </ContentWrapper>
