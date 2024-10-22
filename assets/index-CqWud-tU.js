@@ -565,7 +565,7 @@ height: 35rem;
         transform: rotateY(0deg) ;
     } 
 }
-`,A3=()=>c.jsx(si,{layout:"fixed-grid",columnCount:3,theme:"light",margin:"10rem"}),U3=[{element:c.jsx(m3,{}),path:"/",label:"home"},{element:c.jsx(A3,{}),path:"/test",label:"Test page"}];Q.nav`
+`,A3=()=>c.jsx(si,{layout:"fixed-grid",columnCount:3,theme:"light",margin:"10rem"}),U3=[{element:c.jsx(m3,{}),path:"/my-portfolio",label:"home"},{element:c.jsx(A3,{}),path:"/test",label:"Test page"}];Q.nav`
 display: flex;
 background-color: ${({theme:e})=>e.colors.davieGray};
 
